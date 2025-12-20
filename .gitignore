@@ -1,0 +1,38 @@
+# --------------------
+# Python
+# --------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --------------------
+# Virtual Environments
+# --------------------
+.venv/
+venv/
+env/
+
+# --------------------
+# Environment Variables
+# --------------------
+.env
+.env.*
+
+# --------------------
+# MCP / Local Modules
+# --------------------
+mcp_client/
+
+# --------------------
+# OS / Editor files
+# --------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --------------------
+# Logs
+# --------------------
+*.log

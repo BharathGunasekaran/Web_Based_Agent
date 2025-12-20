@@ -1,0 +1,9 @@
+livekit-plugins-openai
+livekit-plugins-noise-cancellation
+livekit-plugins-silero
+livekit-plugins-turn_detector
+livekit-plugins-google
+requests
+python-dotenv
+pydantic-ai-slim[openai,mcp]
+livekit-agents[tavus]~=1.0
