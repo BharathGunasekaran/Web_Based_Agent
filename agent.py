@@ -57,7 +57,7 @@ async def my_agent(ctx: agents.JobContext):
 
     await session.generate_reply(
         instructions = sys_instructions,
-        allow_interruptions=False,
+        allow_interruptions=True,
     )
 
 
